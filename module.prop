@@ -1,0 +1,6 @@
+id=template(only english and number)
+name=模板模块
+version=v1
+versionCode=1
+author=topjohnwu（作者，可中文）
+description=A short description（描述，可中文）
