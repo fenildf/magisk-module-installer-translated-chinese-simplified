@@ -1,5 +1,7 @@
 # Magisk模块示例汉化版本
 # 基于新的Magisk模块标准汉化（仅支持Magisk18.1及以上版本）
+
+  GitHub上下载后并不能直接安装至Magisk，需要把压缩包里面的文件夹里的文件提到文件夹外（压缩包一级目录，打开压缩包就能看到README.md）
   
   教程请看官方的开发者文档（下面也有）：https://topjohnwu.github.io/Magisk/guides.html
   
