@@ -1,4 +1,4 @@
-# 翻译很迷，看看就好
+# 翻译很迷，看看就好，括号内为原文。
 # 声明文件始终有LF行结尾在结尾。（Declare files that will always have LF line endings on checkout.）
 META-INF/** text eol=lf
 *.prop text eol=lf
