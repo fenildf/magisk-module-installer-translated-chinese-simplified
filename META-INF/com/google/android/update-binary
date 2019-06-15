@@ -15,7 +15,7 @@ ui_print() { echo "$1"; }
 
 require_new_magisk() {
   ui_print "***********************************"
-  ui_print "      请安装最新版本的Magisk!      "
+  ui_print "      请安装最新版本的Magisk!       "
   ui_print "***********************************"
   exit 1
 }
