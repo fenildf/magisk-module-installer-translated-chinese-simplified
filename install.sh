@@ -128,7 +128,7 @@ REPLACE="
 
 print_modname() {
   ui_print "******************************"
-  ui_print "        Magisk模块示例        "
+  ui_print "        Magisk 模块示例        "
   ui_print "******************************"
 }
 
