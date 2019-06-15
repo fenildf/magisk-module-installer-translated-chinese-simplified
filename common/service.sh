@@ -3,4 +3,4 @@
 # 这将确保您的模块仍然有效，即使Magisk在将来改变它的挂载点
 MODDIR=${0%/*}
 
-# 该脚本将在late_start service模式下执行
+# 该脚本将在late_start service模式下执行（将在开机后延迟启动所写服务）
