@@ -4,7 +4,7 @@
 # 或者DLGum大佬的部分教程：https://github.com/DLGum/DLGum.github.io/commit/d3b427b821b2edc362bff11ca791983e9e52ce86
 # 本人小白一枚
 # 部分翻译来自Baidu翻译和Google翻译
-# 分割线=以下是官方Magisk模块示例中的README.md(已汉化）===========================================
+# 分割线=以下是官方Magisk模块示例中的README.md(已汉化）======================================
 # Magisk Installer
 
 **如果您想将模块提交到在线的模块仓库，请更新`README.md`文件！**
