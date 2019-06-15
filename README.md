@@ -1,9 +1,9 @@
 # Magisk模块示例汉化版本
 # 基于新的Magisk模块标准汉化（仅支持Magisk18.1及以上版本）
-教程请看官方的开发者文档：https://topjohnwu.github.io/Magisk/guides.html
-或者DLGum大佬的部分教程：https://github.com/DLGum/DLGum.github.io/commit/d3b427b821b2edc362bff11ca791983e9e52ce86
-本人小白一枚
-部分翻译来自Baidu翻译和Google翻译
+  教程请看官方的开发者文档：https://topjohnwu.github.io/Magisk/guides.html
+  或者DLGum大佬的部分教程：https://github.com/DLGum/DLGum.github.io/commit/d3b427b821b2edc362bff11ca791983e9e52ce86
+  本人小白一枚
+  部分翻译来自Baidu翻译和Google翻译
 # 分割线=以下是官方Magisk模块示例中的README.md(已汉化）======================================
 # Magisk Installer
 
