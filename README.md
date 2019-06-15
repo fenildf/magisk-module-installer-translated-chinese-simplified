@@ -15,7 +15,7 @@
 
 # Magisk Installer
 
-**如果您想将模块提交到在线的模块仓库，请更新`README.md`文件！**
+**如果您想将模块提交到在线的模块仓库（online repo），请更新`README.md`文件！**
 
 有关如何使用此模块安装程序的更多信息，请参阅[文档](https://topjohnwu.github.io/Magisk/guides.html)
 
