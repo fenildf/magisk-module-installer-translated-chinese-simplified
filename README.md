@@ -11,7 +11,7 @@
   
   部分翻译来自Baidu翻译和Google翻译
 # 以下是官方Magisk模块示例中的README.md(已汉化）
-# 分割线===========
+# =分割线=
 
 # Magisk Installer
 
