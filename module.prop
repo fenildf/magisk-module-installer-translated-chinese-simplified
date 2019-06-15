@@ -7,3 +7,4 @@ description=A short description（描述，可中文）
 
 #模块id只能包含数字、英文、半角符号（中文是全角）
 #id正确表达式：^[a-zA-Z][a-zA-Z0-9._-]+$
+#versionCode必须是一个整数（int）。
