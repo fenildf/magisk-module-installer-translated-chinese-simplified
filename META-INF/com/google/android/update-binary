@@ -1,5 +1,9 @@
 #!/sbin/sh
 
+#
+#！！！本文件仅供您在！本地！创建您自己的模块并且！个人！使用或测试！！！
+#
+
 TMPDIR=/dev/tmp
 MOUNTPATH=/dev/magisk_img
 
