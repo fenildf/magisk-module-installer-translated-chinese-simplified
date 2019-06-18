@@ -3,9 +3,9 @@
 
 # GitHub上下载后并不能直接安装至Magisk，需要把压缩包里面的文件夹里的文件提到文件夹外（压缩包一级目录，打开压缩包就能看到README.md）
   
-  ！！！非常推荐！！！教程请看官方的开发者文档（下面也有），使用网页翻译功能：https://topjohnwu.github.io/Magisk/guides.html
+  ！较不推荐！教程请看官方的开发者文档（下面也有），推荐大神使用，该文档思路存在一定模糊（建议先看DLGum大佬的教程），需要进阶功能者可以看（开机脚本、分区说明、提交模块至Magsik服务器等），使用网页翻译功能：https://topjohnwu.github.io/Magisk/guides.html （当然我也有翻译版）
   
-  或者DLGum大佬的部分教程：https://github.com/DLGum/DLGum.github.io/commit/d3b427b821b2edc362bff11ca791983e9e52ce86
+  ！推荐！或者DLGum大佬的部分教程：https://github.com/DLGum/DLGum.github.io/commit/d3b427b821b2edc362bff11ca791983e9e52ce86
   
   本人小白一枚
   
