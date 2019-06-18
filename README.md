@@ -5,7 +5,7 @@
   
   ！较不推荐！教程请看官方的开发者文档（下面也有），推荐大神使用，该文档思路存在一定模糊（建议先看DLGum大佬的教程），需要进阶功能者可以看（开机脚本、分区说明、提交模块至Magsik服务器等），使用网页翻译功能：https://topjohnwu.github.io/Magisk/guides.html （当然我也有翻译版）
   
-  ！推荐！或者DLGum大佬的部分教程：https://github.com/DLGum/DLGum.github.io/commit/d3b427b821b2edc362bff11ca791983e9e52ce86
+  ！推荐先看！或者DLGum大佬的部分教程：https://github.com/DLGum/DLGum.github.io/commit/d3b427b821b2edc362bff11ca791983e9e52ce86 （新手友好）
   
   本人小白一枚
   
